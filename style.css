@@ -1,0 +1,98 @@
+section{
+    margin-bottom: 120px;
+}
+.top-section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 20px;
+    margin: 10px;
+
+}
+.half-width img{
+    width: 70%;
+    
+}
+h1{
+    font-weight: 700;
+    font-size: 30px;
+}
+.orange-color{
+    color: orange;
+}
+.focus-on{
+    border-left: 4px solid;
+    border-image: linear-gradient(tomato, orange);
+    border-image-slice: 1;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.my-mission-area{
+    display: flex;
+    text-align: center;
+}
+.my-mission-heading{
+    text-align: center;
+    color: orange;
+}
+.my-mission-area img{
+ width: 60%;
+}
+.common-div{
+    width: 30%;
+    margin-left: 10px;
+    padding: 10px;
+    
+}
+
+.mission-div{
+    background-color:rgb(164, 196, 207) ;
+    border-radius: 10px;
+    
+}
+.vision-div{
+    background-color:gainsboro;
+    border-radius: 10px;
+}
+
+.goals-div{
+    background-color:rgb(255, 216, 157);
+    border-radius: 10px;
+}
+.develop-section{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+
+.global-com-section{
+    display: flex;
+}
+.corona{
+    color: orange;
+}
+
+.corona-section{
+    display: flex;
+}
+.corona-section img{
+    width: 60%;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
